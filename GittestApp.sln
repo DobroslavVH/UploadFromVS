@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GittestApp", "GittestApp\GittestApp.csproj", "{11147436-AC82-46A4-8D3A-96D991E2CC4C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GittestApp_v0.1", "GittestApp\GittestApp_v0.1.csproj", "{11147436-AC82-46A4-8D3A-96D991E2CC4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
